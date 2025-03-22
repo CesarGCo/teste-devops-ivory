@@ -1,2 +1,2 @@
-# teste-devops-ivory
-Repositório para executar o teste de estágio proposta pela Ivory
+# Branch develop
+É a branch onde ficam os arquivos em desenvolvimento
