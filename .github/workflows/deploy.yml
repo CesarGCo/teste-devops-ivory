@@ -27,7 +27,7 @@ jobs:
       - name: Rodar SonarCloud
         run: |
           sonar-scanner \
-            -Dsonar.organization=cesargco \
+            -Dsonar.organization=cesargco-1 \
             -Dsonar.projectKey=CesarGCo_teste-devops-ivory \
             -Dsonar.branch.name=main \
             -Dsonar.host.url="https://sonarcloud.io" \
