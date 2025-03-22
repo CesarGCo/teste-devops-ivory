@@ -1,2 +1,2 @@
-# teste-devops-ivory
-Repositório para executar o teste de estágio proposta pela Ivory
+# Branch homolog
+Essa branch é usada para testar os códigos antes de ser enviado pra produção
