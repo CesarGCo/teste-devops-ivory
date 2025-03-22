@@ -1,0 +1,20 @@
+{
+  "name": "teste-devops-ivory",
+  "version": "1.0.0",
+  "description": "Possui os arquivos para executar o workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CesarGCo/teste-devops-ivory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CesarGCo/teste-devops-ivory/issues"
+  },
+  "homepage": "https://github.com/CesarGCo/teste-devops-ivory#readme"
+}
